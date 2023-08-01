@@ -1,0 +1,11 @@
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\bin\Debug\BookClass.dll
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\bin\Debug\BookClass.pdb
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CopyComplete
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+D:\Mphasis\.net\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
